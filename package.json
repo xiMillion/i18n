@@ -2,6 +2,8 @@
     "name": "@xiui/i18n",
     "version": "1.0.0",
     "description": "js-国际化语言插件",
+    "repository": "https://www.npmjs.com/package/@xiui/i18n",
+    "homepage": "https://github.com/xiMillion/i18n",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "lib run dev",
